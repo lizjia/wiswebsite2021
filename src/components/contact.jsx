@@ -114,7 +114,7 @@ export const Contact = (props) => {
 
                 <i className='fa fa-facebook'> </i>
                 <a title="Facebook" href="https://www.facebook.com/WomeninScienceUWO" target="_blank" rel="noreferrer">
-                  Instagram </a>
+                  Facebook </a>
               </p>
             </div>
             <div className='contact-item'>
