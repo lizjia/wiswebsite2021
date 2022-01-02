@@ -18,9 +18,6 @@ export const Join = (props) => {
         </div>
         <div>
           &nbsp;
-        <p>
-          Don't miss any important info, sign up for our montly newsletter!
-        </p>
         </div>
       </div>
     </div>
