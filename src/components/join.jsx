@@ -18,6 +18,7 @@ export const Join = (props) => {
         </div>
         <div>
           &nbsp;
+
         </div>
       </div>
     </div>

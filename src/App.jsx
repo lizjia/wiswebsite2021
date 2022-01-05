@@ -5,7 +5,6 @@ import { About } from "./components/about";
 import { Gallery } from "./components/gallery";
 import { Team } from "./components/Team";
 import { Features } from "./components/features";
-
 import { Join } from "./components/join";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";

@@ -7,7 +7,7 @@ export const Gallery = (props) => {
         <div className='section-title'>
           <h2>Events</h2>
           <p>
-           Here are some of our past and future events!
+           Here are some of our past and future events! Click on the pictures to learn more about each event!
           </p>
         </div>
         <div className='row'>
@@ -15,7 +15,7 @@ export const Gallery = (props) => {
             {props.data
               ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-sm-6 col-md-4 col-lg-4'>
-                  <Image title={d.title} largeImage={d.largeImage} smallImage={d.smallImage} />
+                  <Image title={d.title} largeImage={d.largeImage} smallImage={d.smallImage}/>
                 </div>
               ))
               : 'Loading...'}

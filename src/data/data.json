@@ -17,8 +17,13 @@
   },
   "Gallery": [
     {
+      "title": "Sisters In Science",
+      "largeImage": "https://wisuwo.notion.site/wisuwo/Little-Sisters-in-Science-70bffde4307d4f4b8b25401f8aae9079",
+      "smallImage": "img/portfolio/SistersInScience.png"
+    },
+    {
       "title": "Halloween Social",
-      "largeImage": "img/portfolio/01-large.jpg",
+      "largeImage": "https://fb.watch/alVW-uzyM1/",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
@@ -42,12 +47,12 @@
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Guided Imagery and Meditation Session",
+      "title": "LinkedIn Workshop",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Linkedin Workshop",
+      "title": "Guided Imagery and Meditation Session",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
@@ -57,7 +62,7 @@
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Scholarship Guide",
+      "title": "Guided Imagery and Meditation Session",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }

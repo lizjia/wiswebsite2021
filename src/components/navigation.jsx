@@ -56,11 +56,6 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
-            <li>
-              <a  className='page-scroll'>
-                Little Sisters in Science
-              </a>
-            </li>
           </ul>
         </div>
       </div>
