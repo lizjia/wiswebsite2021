@@ -17,7 +17,7 @@ export const Features = (props) => {
             <iframe src="https://calendar.google.com/calendar/embed?src=sshb5he2u8ak5t72cjdu7dgefc%40group.calendar.google.com&ctz=America%2FNew_York"
               width="800"
               height="500"
-            ></iframe>
+            > Calender </iframe>
 
           </div>
 
