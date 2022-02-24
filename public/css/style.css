@@ -261,11 +261,77 @@ background-image: linear-gradient(-20deg, #f794a4 0%, #fdd6bd 100%);}
   padding: 30px 0;
   border-radius: 50%;
   background-image: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);}
+
+  /* stemposium Section */
+#stemposium {
+  padding: 100px 0;
+  padding-left: 20%;
+  padding-right: 20%;
+  background-image: linear-gradient(120deg, #79c4f0 0%, #a8e272 100%);  color: #fff;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.item {
+  width: 120px;
+  min-height: 120px;
+  max-height: auto;
+  float: left;
+  margin: 3px;
+  padding: 3px;
+}
+
+#stemposium .service-desc {
+  margin: 10px 10px 20px;
+}
+#stemposium h2 {
+  color: #fff;
+}
+#stemposium .section-title h2::after {
+  position: absolute;
+  content: "";
+  background: rgba(255, 255, 255, 0.3);
+  height: 4px;
+  width: 60px;
+  bottom: 0;
+  margin-left: -30px;
+  left: 50%;
+}
+#stemposium i.fa {
+  font-size: 62px;
+  font-weight: bold;
+  width: 120px;
+  height: 120px;
+  padding: 40px 0;
+  color: #fff;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+#stemposium h3 {
+  font-weight: 500;
+  padding: 5px 0;
+  color: #fff;
+}
+
+#stemposium .service-desc {
+  margin-bottom: 40px;
+}
+
+#stemposium .btn-custom {
+  margin: 30px 0;
+  background: transparent;
+  border: 2px solid #fff;
+}
+#stemposium .btn-custom:hover {
+  color: #1f386e;
+  background: #fff;
+}
 /* About Section */
 #about {
   padding: 100px 0;
   background-color: #f9d29d;
-  background-image: linear-gradient(to top, #b224ef 0%, #7579ff 100%);
+  background-image: linear-gradient(to top, #a1ccf5 0%, #b66df1 100%);
 }
   #about h3 {
   font-size: 22px;

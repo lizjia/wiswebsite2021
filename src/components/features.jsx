@@ -3,16 +3,12 @@ export const Features = (props) => {
     <div id='schedule' className='text-center'>
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
-
         </div>
-
-
         <div className='section-title'>
           <h2>Calendar</h2>
           <p>
             Stay updated with all of our upcoming events.
           </p>
-
           <div>
             <iframe 
               title = "WIS Calender 2022"
@@ -20,15 +16,9 @@ export const Features = (props) => {
               width="800"
               height="500"
             > </iframe>
-
           </div>
 
-
-
-
         </div>
-
-
 
       </div>
     </div>

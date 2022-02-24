@@ -4,6 +4,7 @@ import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Gallery } from "./components/gallery";
 import { Team } from "./components/Team";
+import { Stemposium } from "./components/stemposium";
 import { Features } from "./components/features";
 import { Join } from "./components/join";
 import { Contact } from "./components/contact";
@@ -28,10 +29,10 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <About data={landingPageData.About} />
       <Team data={landingPageData.Team} />
+      <Stemposium data={landingPageData.Stemposium}/>
       <Gallery data={landingPageData.Gallery}/>
       <Features data={landingPageData.Features} />
       <Join data={landingPageData.Join} />
-
       <Contact data={landingPageData.Contact} />
     </div>
   );
